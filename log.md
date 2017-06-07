@@ -28,5 +28,23 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 
 **Link to work:** https://github.com/Puritanic/-100daysOfCode/tree/master/Day%202%20-%20Basic%20Algorhitms%20on%20FCC
 
+### Day 3: June 7, 2017
+##### Javascript and CSS clock
+
+**Today's Progress**: Practiced a bit with CSS transform and transitions, was trying out new ES6 Javascript grammar and finally made an functional clock. I also worked on an side project, web page about imaginary travel agency, also implementing new CSS and Js stuff I learned.
+
+**Thoughts:** There is so much stuff in CSS I didn't even heard about, also I like new Ecma Script but will probably need some time to get relaxed with some things that are implemented in it. I will try to use more ES6 code from now on, and to learn to use Babel, I'll need it for sure because ES5 is still a standard Js for most of applications.
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Css-Js-Clock 
+
+### Day : June , 2017
+##### 
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:** 
+
 
 
