@@ -1,0 +1,38 @@
+
+/* Clock Css setup */
+
+.clock {
+	width: 30rem;
+	height: 30rem;
+	border: 1.5rem solid white;
+	border-radius: 50%;
+	margin: 3.15rem auto;
+	position: relative;
+	padding: 2rem;
+	 box-shadow:
+        0 0 0 4px rgba(0,0,0,0.1),
+        inset 0 0 0 3px #EFEFEF,
+        inset 0 0 10px black,
+        0 0 10px rgba(0,0,0,0.2);
+
+    &__face {
+    	position: relative;
+    	width: 100%;
+    	height: 100%;
+    	transform: translateY(-3px); /* account for the height of the clock hands */
+    }
+    &__hand {
+        border-radius: 30px/10px; /* horizontal radius / vertical radius */
+    	width: 50%;
+    	height: 0.4rem;
+    	background: black;
+    	position: absolute;
+    	top: 50%;
+        transform-origin: 100%; /* transform element along the x axis */
+        transform: rotate(90deg);
+        transition: all 0.05s;
+        transition-timing-function: cubic-bezier(0.1, 1.2, 0.58, 1);
+    }
+}
+
+/*todo: turn off transition effects via javascript when hand is on 360/0 degrees to stop twiching*/
