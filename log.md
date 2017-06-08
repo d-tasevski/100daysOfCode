@@ -37,6 +37,15 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 
 **Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Css-Js-Clock 
 
+### Day 4: June 8, 2017
+##### MongoDB M101JS and CS50 Course - Week two
+
+**Today's Progress**: Finished week two lectures and assignments for M101JS course, and finished main Cs50 lecture. 
+
+**Thoughts:** While front-end development IS important, back-end also deserves a lot of attention, and as a future full stack developer I have plans to focus on both worlds. I already started learning about back-end in may, even made a complex website wit its own backend infrastructure, and I will continue learning about databases for now, MongoDB seems nice and simple enough for now. Also practiced a little bit with C today, while watching Cs50 lecture, and tomorrow I'm going to solve C crypto assignments.
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%204%20-%20CS50%20study(%20week%202%20)
+
 ### Day : June , 2017
 ##### 
 
@@ -45,6 +54,5 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 **Thoughts:** 
 
 **Link to work:** 
-
 
 
