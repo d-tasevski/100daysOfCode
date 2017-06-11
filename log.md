@@ -49,11 +49,11 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 ### Day 5: June 9, 2017
 ##### Simple gallery
 
-**Today's Progress**: Finished the 2nd Cs50 problem set, updated an project from last month with some new stuff, and made this one-page gallery featuring flexbox :)
+**Today's Progress**: Finished the 2nd Cs50 problem set, and updated an project from last month with some new stuff
 
 **Thoughts:** Definitely need more practice with algorhitms and javascript. Spent almost 6 hours trying to solve Caesars and Vignere ciphers( in C, but oh well).
 
-**Link to work:** 
+**Link to work:** https://yelp-camp-fin.herokuapp.com/
 
 ### Day 6: June 10, 2017
 ##### Practice with CSS3 variables
@@ -61,6 +61,16 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 **Today's Progress**: Didnt even knew that CSS have its own variables! Interesting stuff. I will try to implement it more in future projects. 
 
 **Thoughts:** CSS and HTML are more complex than I thought, there is a lot of stuff I've never heard of damn, I should work on that too :/
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%206%20-%20Practice%20with%20Css%20vars
+
+### Day 7: June 11, 2017
+##### Practice with CSS3 variables
+
+**Today's Progress**: Made this one-page gallery featuring flexbox and cheesy motivational quotes :)
+
+**Thoughts:** Interesting way to make a gallery app, but not very practical. Maybe it can serve as webpage somehow, hmmm.
+Gonna start making some dummy websites, to practice and to explore some new ideas.
 
 **Link to work:** 
 
