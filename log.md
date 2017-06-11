@@ -46,12 +46,21 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 
 **Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%204%20-%20CS50%20study(%20week%202%20)
 
-### Day : June , 2017
-##### 
+### Day 5: June 9, 2017
+##### Simple gallery
 
-**Today's Progress**:
+**Today's Progress**: Finished the 2nd Cs50 problem set, updated an project from last month with some new stuff, and made this one-page gallery featuring flexbox :)
 
-**Thoughts:** 
+**Thoughts:** Definitely need more practice with algorhitms and javascript. Spent almost 6 hours trying to solve Caesars and Vignere ciphers( in C, but oh well).
+
+**Link to work:** 
+
+### Day 6: June 10, 2017
+##### Practice with CSS3 variables
+
+**Today's Progress**: Didnt even knew that CSS have its own variables! Interesting stuff. I will try to implement it more in future projects. 
+
+**Thoughts:** CSS and HTML are more complex than I thought, there is a lot of stuff I've never heard of damn, I should work on that too :/
 
 **Link to work:** 
 
