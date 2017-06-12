@@ -65,13 +65,22 @@ So, thoughts for today: CONCENTRATE AND FOCUS MORE, DO YOUR RESEARCH AS YOU SHOU
 **Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%206%20-%20Practice%20with%20Css%20vars
 
 ### Day 7: June 11, 2017
-##### Practice with CSS3 variables
+##### Flexbox gallery
 
 **Today's Progress**: Made this one-page gallery featuring flexbox and cheesy motivational quotes :)
 
 **Thoughts:** Interesting way to make a gallery app, but not very practical. Maybe it can serve as webpage somehow, hmmm.
 Gonna start making some dummy websites, to practice and to explore some new ideas.
 
-**Link to work:** 
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%207%20-%20Gallery
+
+### Day 8: June 12, 2017
+##### Search-form
+
+**Today's Progress**: Studied You dont know Js the 3rd book today, and made an search engine mimic application( It's just filtering through array :P ). 
+
+**Thoughts:** Thinking about making search engine for Pokedex x)
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%208%20-%20Search%20'engine'
 
 
