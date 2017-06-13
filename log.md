@@ -83,4 +83,12 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%208%20-%20Search%20'engine'
 
+### Day 9: June 13, 2017
+##### Website template
+
+**Today's Progress**: Finished template I was working on last two weeks. Very satisfied with the result, and my first project using BEM approach and modular file structure for css and js files, and webpack. Also implemented support for legacy brwosers just in case. Going to continue Advanced Javascript courese by Kyle Simpson later.
+
+**Thoughts:** Automating stuff with gulp and using webpack in projects is really useful. I'm going to make an template for projects with gulp and webpack asap.
+
+**Link to work:** https://puritanic.github.io/travel-site-demo/
 
