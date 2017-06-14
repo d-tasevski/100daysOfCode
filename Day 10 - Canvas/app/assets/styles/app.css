@@ -1,0 +1,10 @@
+html, body {
+	margin: 0;
+	background-color: teal;
+	background: url('https://source.unsplash.com/RpDA3uYkJWM');
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+	position: relative;
+}
+
