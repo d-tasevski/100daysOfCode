@@ -8,8 +8,8 @@ ctx.lineJoin = 'round';
 ctx.lineCap = 'round'; 
 ctx.lineWidth = 1;
 ctx.globalCompositeOperation = 'luminosity';
-// ctx.shadowColor = 'black';
-// ctx.shadowBlur = 10;
+ctx.shadowColor = 'black';
+ctx.shadowBlur = 10;
 
 let isDrawing = false; // handle drawing, so that we can only draw when holding click
 let lastX = 0; // where do you start line from?
