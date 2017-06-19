@@ -92,3 +92,49 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://puritanic.github.io/travel-site-demo/
 
+
+### Day 10: June 14, 2017
+##### HTML5 Canvas
+
+**Today's Progress**: I've heard about HTML canvas few months ago, but didnt had time to take a look at it, so I decided to give it a go today, and, man, its fun :D Interesting thing, and I will practice more with it for sure!
+
+**Thoughts:** No thoughts , tired as fu*k going to sleep...
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%2010%20-%20Canvas
+
+### Day 11: June 15, 2017
+##### Checkboxes, and Mongo
+
+**Today's Progress**: Watched through all lectures of week three MongoDB University, and will leave homework for tomorrow. Also did a small stupid practice with Js where I setup checking multiple boxes while holding Shift key.
+
+**Thoughts:** Going to focus on ES6 syntax, and to start using it in my code where I can. Also MongoDb looks like an interesting database, I especially like its database system, with JSON datafiles.
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%2011%20-%20Checkboxes
+
+### Day 12: June 17, 2017
+##### YDKJs and MongoDB homework
+
+**Today's Progress**: Finished homework for MongoDB Week 3. I got really confused with regex part of homework, it was nothing hard, I just forgot $regex lessons. Once I realised what I need to do and how to setup I solved it in under 5 minutes, next one too. Also finished this and Obj. prototypes by Kyle Simpson, prototypes are still confusing me, I kinda get the point, but I still have feeling that I;m missing something... Going to start CS50 week 3 tomorrow if there is enough time. 
+
+### Day 13: June 18, 2017
+##### FCC Quote app generator 
+
+**Today's Progress**: Finally started working on random quote generator from FCC challenges section. I guess the hardest part was finding an actually free and good API to use, after that i finished writing code in under an hour. It works good, now I just need to style it.
+
+**Thoughts:** I feel the progress ! 
+
+**Link to work:** https://github.com/Puritanic/Quote_machine
+
+
+### Day 14: June 19, 2017
+##### FCC Quote app and splash-page template
+
+**Today's Progress**: Styled a bit quote app, and then stranded away from it when I encountered Precss package here on GitHub. Was reading a bit about it, and then installed it alongside with gulp and few other packages and started working on splashpage. Really great tool!
+
+**Thoughts:** I kinda fear that I dont get used to libraries and frameworks, and dont learn vanilla Js/Css and how to use it in specific situations. Precss is great tool, but I will also look to alternatives to it where I can, just to see how something can be done with simple CSS, also I'm trying to evade using jQuery when I can, I've heard that using it can be really bad for Js knowledge, heh.
+
+**Link to work:** https://github.com/Puritanic/Quote_machine
+
+
+
+
