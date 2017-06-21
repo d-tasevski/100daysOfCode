@@ -142,6 +142,6 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Thoughts:** I feel asleep while working on Gulp code.
 
-**Link to work:** https://puritanic.github.io/site-template/
+**Link to work:** https://puritanic.github.io/site-template/  
 
 
