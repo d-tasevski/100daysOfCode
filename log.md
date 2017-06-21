@@ -135,6 +135,13 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://github.com/Puritanic/Quote_machine
 
+### Day 15: June 20, 2017
+##### Cloned webpage and practiced with Js
 
+**Today's Progress**: Finished wepbage I started working on yesterday, explored some options in Postcss while working on it, and its an really complex tool for CSS operations. Also practiced with Async java, and read through Gulp docs, but it's still kind off too complex for me... Will leave it for later.
+
+**Thoughts:** I feel asleep while working on Gulp code.
+
+**Link to work:** https://puritanic.github.io/site-template/
 
 
