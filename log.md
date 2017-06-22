@@ -3,7 +3,7 @@
 ### Day 0: June 4, 2017 
 
 
-**Today's Progress**: Finished research on 100 days of code, and tried to research what are the best ways to keep active and organized, and searched for projects to build.
+**Today's Progress**: Finished research on 100 days of code, and tried to research what are the best ways to stay active and organized, and searched for projects to build.
 
 **Thoughts:** I really need to get better in Javascript, so I will focus on Javascript mainly for now.
 **Todo:** set up github repository for 100 days of code, and prepare for challenge!
