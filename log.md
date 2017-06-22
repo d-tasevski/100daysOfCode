@@ -160,4 +160,4 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Thoughts:** Cant wait to change my current job, so that I have more time to code.
 
-**Link to work:** https://github.com/Puritanic/
+**Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%2017%20-%20Video_player
