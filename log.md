@@ -144,4 +144,20 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://puritanic.github.io/site-template/  
 
+### Day 16: June 21, 2017
+##### Gulp Template
 
+**Today's Progress**: Made a reusable Gulp template for projects automated by it. Also included a bunch of other usefull stuff, like Postcss/Precss, Webpack, Babel and others. I will troubleshoot it for possible bugs in next few days, but I think thats it. Now my coding start will be much faster and easier ^^. Also watched a few lectures on ES6 generators and promises.
+
+**Thoughts:** 2 hours of work on template today, and about 20-30 min less for project setups in the future. Time is precioussss.
+
+**Link to work:** https://github.com/Puritanic/gulp-project_template
+
+### Day 17: June 21, 2017
+##### Gulp Template
+
+**Today's Progress**: Practiced a bit with HTML5 video elements, wrote some Js, and everything worked well until I started working on fullscreen video. Cant figure out for life, it seems, for what event to listen when fullscreen goes on, so I didnt finished fullscreen icon change and few other small things because of that... Going to figure it out when I have more time!
+
+**Thoughts:** Cant wait to change my current job, so that I have more time to code.
+
+**Link to work:** https://github.com/Puritanic/
