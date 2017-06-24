@@ -154,10 +154,26 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Link to work:** https://github.com/Puritanic/gulp-project_template
 
 ### Day 17: June 21, 2017
-##### Gulp Template
+##### HTML5 Video player
 
 **Today's Progress**: Practiced a bit with HTML5 video elements, wrote some Js, and everything worked well until I started working on fullscreen video. Cant figure out for life, it seems, for what event to listen when fullscreen goes on, so I didnt finished fullscreen icon change and few other small things because of that... Going to figure it out when I have more time!
 
 **Thoughts:** Cant wait to change my current job, so that I have more time to code.
 
 **Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%2017%20-%20Video_player
+
+### Day 18: June 22, 2017
+##### FCC Qoute app
+
+**Today's Progress**: Didn't had a much time for coding today, spent around hour watching Kyle Simpson's Advanced Javascript course on Pluralsight, and then worked a while on my Quote app, added a few CSS animations, and learned how they work while on it.
+
+**Link to work:** https://github.com/Puritanic/Quote_machine
+
+### Day 19: June 23, 2017
+##### Quote app, again
+
+**Today's Progress**: Finished(in a hacky and crappy way) Twitter share button implementation into quote app.
+
+**Thoughts:** For what I thought that is going to be like an hour of work at the worst, ate almost half of my day... I didn't had idead that Twitter share implementation, with quote in share message will be this hard to setup... Tired and angry.
+
+**Link to work:** https://github.com/Puritanic/Quote_machine
