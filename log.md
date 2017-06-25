@@ -177,3 +177,12 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Thoughts:** For what I thought that is going to be like an hour of work at the worst, ate almost half of my day... I didn't had idead that Twitter share implementation, with quote in share message will be this hard to setup... Tired and angry.
 
 **Link to work:** https://github.com/Puritanic/Quote_machine
+
+### Day 20: June 23, 2017
+##### A bunch of stuff
+
+**Today's Progress**: Finished MongoDB week 4, along with its homework, finished desktop version for my Quote app, implemented twitter share function (somehow), now I need to setup viewing for mobile devices, and resolve a possible problem with API http origin... Made small javascript function for activating html classes on page scroll, used something like that already in my webpage-template project with waypoints npm package. 
+
+**Thoughts:** Did a lot today, I feel like some things are pointlesly complicated, like that twitter share button, it shoul be more accesible and customizable -.- 
+
+**Link to work:** https://github.com/Puritanic/100daysOfCode
