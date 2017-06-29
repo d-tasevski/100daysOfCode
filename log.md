@@ -162,14 +162,14 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://github.com/Puritanic/100daysOfCode/tree/master/Day%2017%20-%20Video_player
 
-### Day 18: June 22, 2017
+### Day 18-19: June 23, 2017
 ##### FCC Qoute app
 
 **Today's Progress**: Didn't had a much time for coding today, spent around hour watching Kyle Simpson's Advanced Javascript course on Pluralsight, and then worked a while on my Quote app, added a few CSS animations, and learned how they work while on it.
 
 **Link to work:** https://github.com/Puritanic/Quote_machine
 
-### Day 19: June 23, 2017
+### Day 20: June 24, 2017
 ##### Quote app, again
 
 **Today's Progress**: Finished(in a hacky and crappy way) Twitter share button implementation into quote app.
@@ -178,7 +178,7 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://github.com/Puritanic/Quote_machine
 
-### Day 20: June 23, 2017
+### Day 20: June 25, 2017
 ##### A bunch of stuff
 
 **Today's Progress**: Finished MongoDB week 4, along with its homework, finished desktop version for my Quote app, implemented twitter share function (somehow), now I need to setup viewing for mobile devices, and resolve a possible problem with API http origin... Made small javascript function for activating html classes on page scroll, used something like that already in my webpage-template project with waypoints npm package. 
@@ -186,3 +186,37 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Thoughts:** Did a lot today, I feel like some things are pointlesly complicated, like that twitter share button, it shoul be more accesible and customizable -.- 
 
 **Link to work:** https://github.com/Puritanic/100daysOfCode
+
+### Day 21: June 26, 2017
+##### Quote app deployed
+
+**Today's Progress**: Random quote generator for FCC front-end dev challenges done! So... I finished everything( js, css, html) and deployed app to GitHub just to be greeted with 'connection refused' message, because API that I used for quotes serves from HTTP and GitHub doesnt accept non-secure connection. I just wanted to throm PC through the window when I thought that I will need to find another API and start over implementing it into project... Luckily I kept calm, and tried to deploy app on Surge, and VOILA! It worked :)) Thanks Surge! 
+
+**Thoughts:** Definitely will lookup all details about API-s I'll use in future. Not paying attention can cost so much time and nerves.
+
+**Link to work:** https://github.com/Puritanic/Quote_machine
+
+### Day 22: June 27, 2017
+##### Cs50 week 3
+
+**Today's Progress**: Watched through Cs50 week 3 lectures and shorts, and tried to solve psets... After that solved two tasks at HackerRank, in 4 different languages ^^
+
+**Thoughts:** I can say that before that I  actually felt like I have solid knowledge of coding, but after looking at psets, and trying to solve them on my own, I realised that I don't know shit, sadly... I solved them in about 8 hours, Google helped, beer helped, and fact that I solved few HackerRank tasks easily cheered me up a little.
+
+**Link to work:** https://github.com/Puritanic/node_projects
+
+### Day 23: June 28, 2017
+##### Responsive site 
+
+**Today's Progress**: I needed a break after all that algorhitms yesterday, so I spent almost half day working on a responsive site project. Also worked a little on build-to-learn project for Chingu, its going well, but my pair-programming buddy seems gone. I guess that I will finish splashpage on my own.
+
+**Link to work:** https://github.com/Puritanic/Responsive_site
+
+### Day 24: June 29, 2017
+##### YelpCamp clone
+
+**Today's Progress**: Spent good part of my day working on improvements for my YelpCamp website. I've implemented User profiles, and pages, added pagination and searching through campgrounds. Also started to style it, and will work more on it in next few days when I have time.
+
+**Thoughts:** I need to start working on some opensource applications on GitHub... Too bad I dont have idea where to start, and what should I look, heh.
+
+**Link to work:** https://github.com/Puritanic/YelpCamp_clone
