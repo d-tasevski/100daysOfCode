@@ -220,3 +220,10 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Thoughts:** I need to start working on some opensource applications on GitHub... Too bad I dont have idea where to start, and what should I look, heh.
 
 **Link to work:** https://github.com/Puritanic/YelpCamp_clone
+
+### Day 25: June 30, 2017
+##### YelpCamp clone
+
+**Today's Progress**: Finished week 5 of MongoDB Academy, and pushed to GitHub my boilerplate for gulp/postcss projects. Will be doing more improvements on it in the future. Also sorted my notes, I mean, tried to sort them, but they are damn mess, and I will try to clean them a bit tommorow on work.
+
+**Link to work:** https://github.com/Puritanic/gulp-html5-postcss-boilerplate
