@@ -227,3 +227,18 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Today's Progress**: Finished week 5 of MongoDB Academy, and pushed to GitHub my boilerplate for gulp/postcss projects. Will be doing more improvements on it in the future. Also sorted my notes, I mean, tried to sort them, but they are damn mess, and I will try to clean them a bit tommorow on work.
 
 **Link to work:** https://github.com/Puritanic/gulp-html5-postcss-boilerplate
+
+
+### Day 26: July 1, 2017
+##### Objects and prototypes
+
+**Today's Progress**: Spent my coding time for today reading about objects and prototypes(again). Too much work piled up on my actual job, I guess tomorrow will be no time for coding... :(
+
+
+
+### Day 27: July 2, 2017
+##### Notes 
+
+**Today's Progress**: I found a little time to sort my notes on programming, and to upload them to Github, just in case. They are in such mess, I dont even knew I had so much stuff writen... going to sort them in small batches, whenever I can.
+
+**Link to work:** https://github.com/Puritanic/verbose-octo-sniffle
