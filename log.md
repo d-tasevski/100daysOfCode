@@ -232,7 +232,7 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 ### Day 26: July 1, 2017
 ##### Objects and prototypes
 
-**Today's Progress**: Spent my coding time for today reading about objects and prototypes(again). Too much work piled up on my actual job, I guess tomorrow will be no time for coding... :(
+**Today's Progress**: Spent my coding time for today reading about objects and prototypes(again). Too much work piled up on my actual job, I guess tomorrow there will be no time for coding... :(
 
 
 
@@ -242,3 +242,9 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Today's Progress**: I found a little time to sort my notes on programming, and to upload them to Github, just in case. They are in such mess, I dont even knew I had so much stuff writen... going to sort them in small batches, whenever I can.
 
 **Link to work:** https://github.com/Puritanic/verbose-octo-sniffle
+
+
+### Day 28: July 2, 2017
+##### Notes 
+
+**Today's Progress**: Started learning patterns and how to use them via Javascript Patters course on Pluralsight. Loks okay for now, but there are few thing where I disagree with instructor( under hevy influence of Kyle Simpson).
