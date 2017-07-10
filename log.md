@@ -244,7 +244,65 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Link to work:** https://github.com/Puritanic/verbose-octo-sniffle
 
 
-### Day 28: July 2, 2017
+### Day 28: July 3, 2017
 ##### Notes 
 
-**Today's Progress**: Started learning patterns and how to use them via Javascript Patters course on Pluralsight. Loks okay for now, but there are few thing where I disagree with instructor( under hevy influence of Kyle Simpson).
+**Today's Progress**: Started learning patterns and how to use them via Javascript Patters course on Pluralsight. Loks okay for now, but there are few thing where I disagree with instructor( under heavy influence of Kyle Simpson).
+
+### Day 28: July 4, 2017
+#### Javascript design patterns
+
+**Today's Progress**: Fnished the first two sections of the course on fast forward, I already know most of this things as this things and how they work  are mentioned in YDKJS. Anyway, gonna rewatch 2nd section again and take some notes alongside.
+
+### Day 29: July 5, 2017
+##### Angular and Node.js
+
+**Today's Progress**: Started learning about Angular and Node.js, still looking for resources for my Weather app.
+
+**Thoughts:** As I can see Node.js will be top of the creme in next few years, so I'm definetly going to focus on it. Still in doubt should I choose Angular or React, I'll look into Angular for now and will see what works better for me.
+
+
+### Day 30: July 6, 2017
+##### Angular and Node.js
+
+**Today's Progress**: Same as yesterday, reading about Angular mostly for now, seems interesting. also worked a bit on splashpage project for Chingu.
+
+**Thoughts:** build-to-learn project is nearly done, and I'm already looking for something interesting to work on after. The main letdown for learning React is that I need to learn XML too, dont really know is it hard, but its annoying.
+
+### Day 31: July 8, 2017
+##### Angular and Node.js
+
+**Today's Progress**: Finished build-to-learn project for Chingu! The only thing that i didnt acomplished is taht little Callie svg in title of the site, couldn't for a life make it to move as it should on small screens, but everything else is good, also added some hr elements and restructured mobile view of the purple section of the site. Weather app next project.
+
+**Thoughts:** Took a rest from coding yesterday, and played XCOM x) I guess strategy games like that help in brain exercising. Also realized that Lost grid is really cool thing, and will probably use it in all my future projects where I need any grid.
+
+**Link to work:** https://github.com/Puritanic/Splash-page_clone
+
+### Day 31: July 8, 2017
+##### Angular and Node.js
+
+**Today's Progress**: Finished build-to-learn project for Chingu! The only thing that i didnt acomplished is taht little Callie svg in title of the site, couldn't for a life make it to move as it should on small screens, but everything else is good, also added some hr elements and restructured mobile view of the purple section of the site. Weather app next project.
+
+**Thoughts:** Took a rest from coding yesterday, and played XCOM x) I guess strategy games like that help in brain exercising. Also realized that Lost grid is really cool thing, and will probably use it in all my future projects where I need any grid.
+
+**Link to work:** https://github.com/Puritanic/Splash-page_clone
+
+
+### Day 32: July 9, 2017
+##### Javascript Design Patterns
+
+**Today's Progress**:  Rewatched the 2nd section of the course and was taking notes alongside. Learned about Module ,Singleton, Factory, Facade, Flyweight and few other patterns, when to and for what should I use them.
+
+**Thoughts:** The instructor of the course is actively using new ES6 class syntax while working with patterns, I'm going to restructure my code in notes into *_OLOO_* design by Kyle when I have more time, because I really like its simple solution for code.
+
+**Link to work:** https://github.com/Puritanic/verbose-octo-sniffle/tree/master/Javascript/JavaScript-Notes/designpattern
+
+
+### Day 33: July 10, 2017
+##### Vscode
+
+**Today's Progress**: Decided to try out Visual Code Studio editor on suggestion from cohort mate, and I'll be damned if it isn't great! Installed Vscode, customized it with plugins and took it for a ride, going to change my preffered editor from Sublime to Vscode I guess.
+
+**Thoughts:**  I'm really suprised that Microsoft made something like this. I works fast, have really great plugins, I just miss one or two from Sublime(Hayaku!!!) but all others seems to have their own counterparts for Vscode. 
+
+
