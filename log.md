@@ -278,16 +278,6 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 
 **Link to work:** https://github.com/Puritanic/Splash-page_clone
 
-### Day 31: July 8, 2017
-##### Angular and Node.js
-
-**Today's Progress**: Finished build-to-learn project for Chingu! The only thing that i didnt acomplished is taht little Callie svg in title of the site, couldn't for a life make it to move as it should on small screens, but everything else is good, also added some hr elements and restructured mobile view of the purple section of the site. Weather app next project.
-
-**Thoughts:** Took a rest from coding yesterday, and played XCOM x) I guess strategy games like that help in brain exercising. Also realized that Lost grid is really cool thing, and will probably use it in all my future projects where I need any grid.
-
-**Link to work:** https://github.com/Puritanic/Splash-page_clone
-
-
 ### Day 32: July 9, 2017
 ##### Javascript Design Patterns
 
