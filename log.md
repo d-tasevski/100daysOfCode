@@ -296,3 +296,18 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Thoughts:**  I'm really suprised that Microsoft made something like this. I works fast, have really great plugins, I just miss one or two from Sublime(Hayaku!!!) but all others seems to have their own counterparts for Vscode. 
 
 
+### Day 34: July 11, 2017
+##### MongoDB Week 6
+
+**Today's Progress**: Finished week 6, played a little with the crunchbase db. Solved a few problems on Euler and one algorithm on HackerRank.
+
+**Thoughts:** Everyday practicing with algorithms will be on my must-to-do list from now on.
+
+### Day 35: July 12, 2017
+##### Udemy Javascript Weird Parts
+
+**Today's Progress**: Finished 6th and 7th section of the course, played a bit with object creating and mutating properties.
+
+**Thoughts:** ITs so hot here, I cant focus enough... 43 degrees right now, im going to boil x( 
+Finished polishing code from a few practices i did last few days, Cs50 is still waiting for me, and I guess that Im too  overextended with all resources. Going to focus on important things for the next week or two, and will continue everything else.
+
