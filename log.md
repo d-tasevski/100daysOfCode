@@ -311,3 +311,16 @@ Gonna start making some dummy websites, to practice and to explore some new idea
 **Thoughts:** ITs so hot here, I cant focus enough... 43 degrees right now, im going to boil x( 
 Finished polishing code from a few practices i did last few days, Cs50 is still waiting for me, and I guess that Im too  overextended with all resources. Going to focus on important things for the next week or two, and will continue everything else.
 
+### Day 36: July 13, 2017
+##### Javascript Weird Parts - framework
+
+**Today's Progress**: Set up framework from lectures, and added a few new features(languages).
+
+**Thoughts:** Frameworks are not that scary once you realize how they work, and how they are bult. Going to dwelwe through jQuery, Underscore.js and Lodash once I have more time, for sure.
+
+### Day 37: July 14, 2017
+##### Cs50 Week4 
+
+**Today's Progress**: Watched lecture and shorts for Cs50 week 4. Played a bit with C.
+
+**Thoughts:** Psets are looking terryfying :( Gonna try tommorow to solve them(at least one).
