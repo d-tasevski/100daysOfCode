@@ -332,13 +332,67 @@ Finished polishing code from a few practices i did last few days, Cs50 is still 
 
 **Thoughts:** Solution to the first problem was so easy, litteraly 3-4 lines of code, but I spent around 3 hours solving it...
 Was so angry at me after realizing what I needed to do to solve it. I guess I'm not thinking right to solve problems still.
-**Link to work:** 
+**Link to work:** academic honesty bla bla
 
-### Day 38: July 16, 2017
+### Day 39: July 16, 2017
 ##### Cs50 Week4 psets
 
-**Today's Progress**: Solved the first problem for Cs50 week 4. Watched the first half of lectures M101JS.
+**Today's Progress**: Watched shorts again, and solved 2nd and 3rd problem from Cs50 pset.
 
-**Thoughts:** Solution to the first problem was so easy, litteraly 3-4 lines of code, but I spent around 3 hours solving it...
-Was so angry at me after realizing what I needed to do to solve it. I guess I'm not thinking right to solve problems still.
+**Thoughts:** Same thing for the 2nd and 3rd problems sets, easier to solve than I thought. Lost my nerves a little when I saw that deadline for M101Js is in two days and I didnt even started to work on final project. Will try to somehow work on my algorhitm skills, and to learn somehow to think as I should to. Also I'm to lazy to post this logs to Twitter every day... I guess thats just my aversion to social networks. I should work on that too -.-
+
 **Link to work:** academic honesty bla bla
+
+### Day 40: July 17, 2017
+##### M101Js week 7 and final project
+
+**Today's Progress**: Watched the rest of M101js lectures and started working on final project. Enrolled to M100 MongoDb Academy course, to strenghten my knowledge, just in case. 
+
+**Thoughts:** I feel like I'm going to forget all of this in a week or two... Enrollet to another course abbout MongoFb, to keep my knowledge intact, or to (even better) learn more. Finished first 3 labs on final project, and they are not that easy like I've heard... I dont know will I make it in time, because half of my code doesnt work like it should...
+
+**Link to work:** going to upload after I finish it...
+
+### Day 41: July 18, 2017
+##### M101Js final project
+
+**Today's Progress**: Watched the rest of M101js lectures and started working on final project. Enrolled to M100 MongoDb Academy course, to strenghten my knowledge, just in case. 
+edit: Finished it!
+
+**Thoughts:** I feel like I'm going to forget all of this in a week or two... Enrollet to another course abbout MongoFb, to keep my knowledge intact, or to (even better) learn more. Finished first 3 labs on final project, and they are not that easy like I've heard... I dont know will I make it in time, because half of my code doesnt work like it should...
+edit: Finished it!
+
+**Link to work:** going to upload after I finish it...
+
+### Day 42: July 19, 2017
+##### M101Js final project
+
+**Today's Progress**: Finished M101js final project, and started again going through Shay Howe's HTML and CSS book.
+
+**Thoughts:** Getting back on track with P1xt guide and FCC, I strained too much from the path... So, no to Ruby, Node.js, and Angular.js for now. First things first.
+
+**Link to work:** https://github.com/Puritanic/verbose-octo-sniffle/tree/master/HTML%26CSS
+
+
+### Day 43: July 20, 2017
+##### Shay Howe's Advanced HTML and CSS
+
+**Today's Progress**: Finished Shay Howe's HTML and CSS, both Basci and Advanced. Bookmarked few things to read later, mostly about css animations and transitions. Worked a bit on my code for weather app.
+
+**Thoughts:** Accepted to Chingy Voyage ^^ . Next week or two will focus on projects there, along with Cs50 and M100 course.
+
+**Link to work:** https://github.com/Puritanic/verbose-octo-sniffle/tree/master/HTML%26CSS
+
+### Day 44: July 21, 2017
+##### Cs50 Week 5
+
+**Today's Progress**: Watched Week 5 lectures and gone through notes after lecture, just in case I missed something.
+
+**Thoughts:** Accepted to Chingy Voyage ^^ . Next week or two will focus on projects there, along with Cs50 and M100 course.
+
+### Day 45: July 22, 2017
+##### M100 Week 1
+
+**Today's Progress**: Watched Week 1 lectures of M100 mongodb course.
+
+**Thoughts:** Turtles Team 17, Chingu Voyage ^^ Cant wait for project to start. 
+
