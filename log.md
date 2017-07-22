@@ -324,3 +324,21 @@ Finished polishing code from a few practices i did last few days, Cs50 is still 
 **Today's Progress**: Watched lecture and shorts for Cs50 week 4. Played a bit with C.
 
 **Thoughts:** Psets are looking terryfying :( Gonna try tommorow to solve them(at least one).
+
+### Day 38: July 15, 2017
+##### Cs50 Week4 psets
+
+**Today's Progress**: Solved the first problem for Cs50 week 4. Watched the first half of lectures M101JS.
+
+**Thoughts:** Solution to the first problem was so easy, litteraly 3-4 lines of code, but I spent around 3 hours solving it...
+Was so angry at me after realizing what I needed to do to solve it. I guess I'm not thinking right to solve problems still.
+**Link to work:** 
+
+### Day 38: July 16, 2017
+##### Cs50 Week4 psets
+
+**Today's Progress**: Solved the first problem for Cs50 week 4. Watched the first half of lectures M101JS.
+
+**Thoughts:** Solution to the first problem was so easy, litteraly 3-4 lines of code, but I spent around 3 hours solving it...
+Was so angry at me after realizing what I needed to do to solve it. I guess I'm not thinking right to solve problems still.
+**Link to work:** academic honesty bla bla
