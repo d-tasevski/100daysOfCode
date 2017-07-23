@@ -396,3 +396,12 @@ edit: Finished it!
 
 **Thoughts:** Turtles Team 17, Chingu Voyage ^^ Cant wait for project to start. 
 
+### Day 46: July 23, 2017
+##### Chingu Voyage 
+
+**Today's Progress**: Gone through initial planning on project with team, and watched an course on building chrome extensions. 
+
+**Thoughts:** We are going to reverse engineer an chrome extension, or make an our own. We were brainstorming today, and it seems we re going to make an dashboard with a few functionalities 
+Cs50 awaits :( Cant't keep it up with everything happening, damn.
+
+**Link to work:** https://github.com/Puritanic/chrome-ext
