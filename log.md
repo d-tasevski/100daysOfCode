@@ -405,3 +405,12 @@ edit: Finished it!
 Cs50 awaits :( Cant't keep it up with everything happening, damn.
 
 **Link to work:** https://github.com/Puritanic/chrome-ext
+
+### Day 47: July 24, 2017
+##### Chrome extension
+
+**Today's Progress**: MAde my own chrome extension(nothing coplex :P ), and built a mockup app for our project in Chingu Voyage.
+
+**Thoughts:** Reviewed my Cs50 code for last pset, and I;m not really satisfied with how it looks, or how I wrote it. I understand pointers and memory allocation, but everything there seems to be a too much work for something like spell check... Maybe C just isn't for me :/ Will go through that pset once again when I have free time, my regular job is killing both me, my will and my time -.-
+
+**Link to work:** https://github.com/Puritanic/chrome-ext
