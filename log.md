@@ -422,6 +422,7 @@ Cs50 awaits :( Cant't keep it up with everything happening, damn.
 	, and was overwhelmed with Chingu Voyage stuff, researching, practicing and making chrome extensions in general. Also learned( and still learning) how to work with APIs, and how Url shorteners work.
 
 **Thoughts:** First: I need better time managment definitely, also I need to forget about gaming for a while, while I finish all stuff I've begun. Second: The Google API for url shortener is horrible, couldnt find a simple explanation oh how it works in API's docs. Figured it out eventually after going through Stack Overflow and various blogs, but I think it was more trouble than it's worth. Decided to use Bit.ly API on team mate's recommedation and set it up in less than half an hour... Good thing is that I kinda learned how URL shortening algorhitm looks like and how it works and made my own one with Node.js and MongoDB. I've also looked up DarkSky weather API, and decided to use it for my FCC weather app project. So my todo list for a nest few days:
+
 	* work on Multidashboard project for Chingu Voyage
 	* Weather app for FCC
 	* Cs50
