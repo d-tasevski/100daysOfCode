@@ -414,3 +414,17 @@ Cs50 awaits :( Cant't keep it up with everything happening, damn.
 **Thoughts:** Reviewed my Cs50 code for last pset, and I;m not really satisfied with how it looks, or how I wrote it. I understand pointers and memory allocation, but everything there seems to be a too much work for something like spell check... Maybe C just isn't for me :/ Will go through that pset once again when I have free time, my regular job is killing both me, my will and my time -.-
 
 **Link to work:** https://github.com/Puritanic/chrome-ext
+
+### Day 48: July 30, 2017
+##### Long week of everything
+
+**Today's Progress**: Or better, this week's progress. Didnt had time to write log or update 100 days of Code repo, because of actual job(overwhelmed with it)
+	, and was overwhelmed with Chingu Voyage stuff, researching, practicing and making chrome extensions in general. Also learned( and still learning) how to work with APIs, and how Url shorteners work.
+
+**Thoughts:** First: I need better time managment definitely, also I need to forget about gaming for a while, while I finish all stuff I've begun. Second: The Google API for url shortener is horrible, couldnt find a simple explanation oh how it works in API's docs. Figured it out eventually after going through Stack Overflow and various blogs, but I think it was more trouble than it's worth. Decided to use Bit.ly API on team mate's recommedation and set it up in less than half an hour... Good thing is that I kinda learned how URL shortening algorhitm looks like and how it works and made my own one with Node.js and MongoDB. I've also looked up DarkSky weather API, and decided to use it for my FCC weather app project. So my todo list for a nest few days:
+	* work on Multidashboard project for Chingu Voyage
+	* Weather app for FCC
+	* Cs50
+	* practice a bith with all I've learned
+
+**Link to work:** https://github.com/Puritanic/Url-shortener , https://github.com/Puritanic/chrome-ext , https://github.com/turtlesTeam17/multifunctional-dashboard	 	

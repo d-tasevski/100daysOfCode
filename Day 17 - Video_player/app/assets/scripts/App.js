@@ -44,12 +44,11 @@ function scrub(e) {
 	video.currentTime = scrubTime;
 	console.log(e);
 }
-
+// fullscreen
 function expandScreen() {
-	player.webkitRequestFullScreen();
- 	if(this.fullscreenElement) {
- 		console.log(true);
- 	}
+	//usage: getreqfullscreen().call(targetelement) // open full screen on targetelement
+	var root = document.documentElement
+	return root.requestFullscreen || root.webkitRequestFullscreen || root.mozRequestFullScreen || root.msRequestFullscreen;
 }
 
 // Event listeners
