@@ -1,13 +1,18 @@
 #include <stdio.h>
 
 int main(void){
- 
-    float mbs, mb;
-    
-    printf("Whats you download speed? And how large that file is?\n");
-    scanf("%f %f", &mbs, &mb);
-    printf("So %.1f mb\\s and %.1f mb, right?\n", mbs, mb);
-    
-    return 0;
-    
+	const float BITS_PER_BYTE = 8;
+	float download_speed_Mps;
+	float file_size_MB;
+
+	printf("Enter the download speed (in megabits/second): ");
+	scanf("%f", &download_speed_Mps);
+	printf("Enter the file size (in megabytes): ");
+	scanf("%f", &file_size_MB);
+	printf("At %.2f megabits per second, a file of %.2f megabytes"
+		   " downloads in %.2f seconds.\n", download_speed_Mps, file_size_MB,
+		   file_size_MB * BITS_PER_BYTE / download_speed_Mps);
+
+	return 0;
 }
+    
