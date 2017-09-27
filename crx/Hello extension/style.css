@@ -1,0 +1,12 @@
+body {
+    padding-top: 30%;
+    background: teal;
+    height: 250px;
+    width: 180px;
+    text-align: center;
+    border: 5px brown double;
+}
+
+h1 {
+    color: aliceblue;
+}

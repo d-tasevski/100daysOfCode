@@ -1,0 +1,31 @@
+{
+    "manifest_version": 2,
+    "name": "Font styler",
+    "version": "0.0.1",
+    "description": "Change font style on google dev pages",
+    "icons": {
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "page_action": {
+        "default_icon": "icons/icon16.png",
+        "default_popup": "popup.html",
+        "default_title": "Font Styler"
+    },
+    "background": {
+        "scripts": ["eventpage.js"],
+        "persistent": false
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://developer.chrome.com/*"],
+            "js": ["content.js", "jquery-3.2.1.min.js"],
+            "css": ["content.css"]
+        }
+    ],
+    "permissions": [
+        "tabs",
+        "https://developer.chrome.com/*"
+    ]
+}
