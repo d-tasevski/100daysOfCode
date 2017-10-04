@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Partials</title>
+</head>
+<body>
+	<div id="main">
+		
+	</div>
+	<button id="ajax-button" type="button">Update Content</button>
+
+	<script type="text/javascript">
+		function replaceText() {
+			var target = document.getElementById("main");
+			var xhr = new XMLHttpRequest();
+			xhr.open('GET', 'asyncFiles.php', true);
+			xhr.onreadystatechange = function (){
+				console.log('ready state: ' + xhr.readyState);;
+				if (xhr.readyState === 2) {
+					target.innerHTML = "Loading...";
+				} else if ( xhr.readyState === 4 && xhr.status === 200) {
+					var json = JSON.parse(xhr.responseText);
+					target.innerHTML = json.long;
+				}
+			}
+			xhr.send();
+		}
+	  var button = document.getElementById ("ajax-button");
+      button.addEventListener("click", replaceText);
+	</script>
+</body>
+</html>

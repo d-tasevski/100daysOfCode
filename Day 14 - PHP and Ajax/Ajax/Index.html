@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript">
+		var xmlreq = new XMLHttpRequest();
+
+		xmlreq.onreadystatechange = function(){
+			if (xmlreq.readyState === 4 && xmlreq.status === 200) {
+				var reciever = document.getElementById('getData');
+				// recieving data from data.php
+				reciever.innerHTML = xmlreq.responseText;
+			}
+		}
+		xmlreq.open('GET', 'ajax_data.php?', true);
+		xmlreq.send();
+	</script>
+</head>
+<body>
+	<div>
+		<button onclick="ajax_func();"> Click to retrieve data</button>
+		<div id="getData"></div>
+	</div>
+</body>
+</html>
